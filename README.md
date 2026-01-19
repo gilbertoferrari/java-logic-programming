@@ -23,8 +23,6 @@ class Main{
     + int b
     + int soma
 }
-
-```
 ```
 
 
@@ -74,8 +72,6 @@ class Main{
     + double radius
     + double area
 }
-
-```
 ```
 
 ```java

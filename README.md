@@ -12,7 +12,8 @@
 | 10 e 30  | Soma = 40  |
 | -30 e 10 | Soma = -20 |
 | 0 e 0    | Soma = 0   |
-~~~mermaid
+
+```mermaid
 ---
 title : Exercício 1
 ---
@@ -23,7 +24,8 @@ class Main{
     + int soma
 }
 
-~~~
+```
+```
 
 
 ```java
@@ -61,7 +63,8 @@ public class Main {
 | 2.00    | A = 12.5664    |
 | 100.64  | A = 31819.3103 |
 | 150.00  | A = 70685.7750 |
-~~~mermaid
+
+```mermaid
 ---
 title : Exercício 2
 ---
@@ -72,7 +75,8 @@ class Main{
     + double area
 }
 
-~~~
+```
+```
 
 ```java
 import java.util.Scanner;
